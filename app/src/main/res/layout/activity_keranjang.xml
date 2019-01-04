@@ -5,26 +5,13 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".TambahData">
+    tools:context=".Keranjang">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
         android:padding="10dp">
-
-        <Button
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:text="Select Image"
-            android:id="@+id/buttonSelect"
-            android:background="@color/green"
-            android:layout_margin="10dp"/>
-
-        <ImageView
-            android:layout_width="match_parent"
-            android:layout_height="100dp"
-            android:id="@+id/imageView"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -60,21 +47,6 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textColor="@color/black"
-            android:text="Jumlah Barang" />
-
-        <EditText
-            android:id="@+id/inputJumlah"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:ems="10"
-            android:inputType="number"
-            android:hint="Jumlah Barang" />
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:textColor="@color/black"
             android:text="Harga Barang" />
 
         <EditText
@@ -86,14 +58,59 @@
             android:inputType="number"
             android:hint="Harga Barang" />
 
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="Nama Pembeli" />
+
+        <EditText
+            android:id="@+id/inputNamaPembeli"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:inputType="textCapWords"
+            android:hint="Nama Pembeli" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="Jumlah Pesanan" />
+
+        <EditText
+            android:id="@+id/inputJumlahPesanan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:inputType="number"
+            android:hint="Jumlah Pesanan" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="Alamat Pembeli" />
+
+        <EditText
+            android:id="@+id/inputAlamat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:inputType="textCapWords"
+            android:hint="Alamat Pembeli" />
+
         <Button
-            android:id="@+id/buttonUpload"
+            android:id="@+id/buttonTambah"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginVertical="10dp"
-            android:background="#ff4500"
+            android:background="@color/red"
+            android:text="CHECKOUT"
             android:textColor="@color/white"
-            android:text="TAMBAH DATA"
             android:textSize="16dp" />
 
     </LinearLayout>

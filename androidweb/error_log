@@ -1,0 +1,293 @@
+[29-Dec-2018 14:46:30 America/New_York] PHP Notice:  Undefined index: jumlah_barang in /home/iniwrndp/public_html/android/data.php on line 14
+[29-Dec-2018 14:46:30 America/New_York] PHP Notice:  Undefined index: jumlah_barang in /home/iniwrndp/public_html/android/data.php on line 14
+[29-Dec-2018 14:46:30 America/New_York] PHP Notice:  Undefined index: jumlah_barang in /home/iniwrndp/public_html/android/data.php on line 14
+[29-Dec-2018 14:46:30 America/New_York] PHP Notice:  Undefined index: jumlah_barang in /home/iniwrndp/public_html/android/data.php on line 14
+[30-Dec-2018 05:39:03 America/New_York] PHP Notice:  Undefined index: id in /home/iniwrndp/public_html/android/detaildata.php on line 3
+[30-Dec-2018 05:39:03 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/iniwrndp/public_html/android/detaildata.php on line 9
+[30-Dec-2018 06:41:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function getFileName() in /home/iniwrndp/public_html/android/tambahdata.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/iniwrndp/public_html/android/tambahdata.php on line 25
+[30-Dec-2018 19:35:18 America/New_York] PHP Notice:  Undefined index: image in /home/iniwrndp/public_html/android/tambahdata.php on line 25
+[30-Dec-2018 19:35:18 America/New_York] PHP Notice:  Undefined index: extension in /home/iniwrndp/public_html/android/tambahdata.php on line 26
+[30-Dec-2018 19:35:18 America/New_York] PHP Notice:  Undefined index: image in /home/iniwrndp/public_html/android/tambahdata.php on line 32
+[30-Dec-2018 19:36:09 America/New_York] PHP Notice:  Undefined index: image in /home/iniwrndp/public_html/android/tambahdata.php on line 25
+[30-Dec-2018 19:36:09 America/New_York] PHP Notice:  Undefined index: extension in /home/iniwrndp/public_html/android/tambahdata.php on line 26
+[30-Dec-2018 19:36:09 America/New_York] PHP Notice:  Undefined index: image in /home/iniwrndp/public_html/android/tambahdata.php on line 32
+[30-Dec-2018 19:36:33 America/New_York] PHP Notice:  Undefined index: image in /home/iniwrndp/public_html/android/tambahdata.php on line 25
+[30-Dec-2018 19:36:33 America/New_York] PHP Notice:  Undefined index: extension in /home/iniwrndp/public_html/android/tambahdata.php on line 26
+[30-Dec-2018 19:36:33 America/New_York] PHP Notice:  Undefined index: image in /home/iniwrndp/public_html/android/tambahdata.php on line 32
+[30-Dec-2018 19:36:41 America/New_York] PHP Notice:  Undefined index: image in /home/iniwrndp/public_html/android/tambahdata.php on line 25
+[30-Dec-2018 19:36:41 America/New_York] PHP Notice:  Undefined index: extension in /home/iniwrndp/public_html/android/tambahdata.php on line 26
+[30-Dec-2018 19:36:41 America/New_York] PHP Notice:  Undefined index: image in /home/iniwrndp/public_html/android/tambahdata.php on line 32
+[30-Dec-2018 19:41:23 America/New_York] PHP Notice:  Undefined index: image in /home/iniwrndp/public_html/android/tambahdata.php on line 25
+[30-Dec-2018 19:41:23 America/New_York] PHP Notice:  Undefined index: extension in /home/iniwrndp/public_html/android/tambahdata.php on line 26
+[30-Dec-2018 19:41:23 America/New_York] PHP Notice:  Undefined index: image in /home/iniwrndp/public_html/android/tambahdata.php on line 32
+[30-Dec-2018 19:41:30 America/New_York] PHP Notice:  Undefined index: image in /home/iniwrndp/public_html/android/tambahdata.php on line 25
+[30-Dec-2018 19:41:30 America/New_York] PHP Notice:  Undefined index: extension in /home/iniwrndp/public_html/android/tambahdata.php on line 26
+[30-Dec-2018 19:41:30 America/New_York] PHP Notice:  Undefined index: image in /home/iniwrndp/public_html/android/tambahdata.php on line 32
+[30-Dec-2018 19:42:47 America/New_York] PHP Notice:  Undefined index: image in /home/iniwrndp/public_html/android/tambahdata.php on line 25
+[30-Dec-2018 19:42:47 America/New_York] PHP Notice:  Undefined index: extension in /home/iniwrndp/public_html/android/tambahdata.php on line 26
+[30-Dec-2018 19:42:47 America/New_York] PHP Notice:  Undefined index: image in /home/iniwrndp/public_html/android/tambahdata.php on line 32
+[30-Dec-2018 21:39:30 America/New_York] PHP Notice:  Undefined index: image in /home/iniwrndp/public_html/android/tambahdata.php on line 25
+[30-Dec-2018 21:39:30 America/New_York] PHP Notice:  Undefined index: extension in /home/iniwrndp/public_html/android/tambahdata.php on line 26
+[30-Dec-2018 21:39:30 America/New_York] PHP Notice:  Undefined index: image in /home/iniwrndp/public_html/android/tambahdata.php on line 32
+[30-Dec-2018 21:39:58 America/New_York] PHP Notice:  Undefined index: image in /home/iniwrndp/public_html/android/tambahdata.php on line 25
+[30-Dec-2018 21:39:58 America/New_York] PHP Notice:  Undefined index: extension in /home/iniwrndp/public_html/android/tambahdata.php on line 26
+[30-Dec-2018 21:39:58 America/New_York] PHP Notice:  Undefined index: image in /home/iniwrndp/public_html/android/tambahdata.php on line 32
+[31-Dec-2018 10:03:14 America/New_York] PHP Notice:  Undefined variable: mydb in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:03:14 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:03:14 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iniwrndp/public_html/android/data.php on line 9
+[31-Dec-2018 10:05:37 America/New_York] PHP Notice:  Undefined variable: mydb in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:05:37 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:05:37 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iniwrndp/public_html/android/data.php on line 9
+[31-Dec-2018 10:05:40 America/New_York] PHP Notice:  Undefined variable: mydb in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:05:40 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:05:40 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iniwrndp/public_html/android/data.php on line 9
+[31-Dec-2018 10:05:56 America/New_York] PHP Notice:  Undefined variable: mydb in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:05:56 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:05:56 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iniwrndp/public_html/android/data.php on line 9
+[31-Dec-2018 10:18:44 America/New_York] PHP Notice:  Undefined variable: mydb in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:18:44 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:18:44 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iniwrndp/public_html/android/data.php on line 9
+[31-Dec-2018 10:19:17 America/New_York] PHP Notice:  Undefined variable: mydb in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:19:17 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:19:17 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iniwrndp/public_html/android/data.php on line 9
+[31-Dec-2018 10:19:42 America/New_York] PHP Notice:  Undefined variable: mydb in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:19:42 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:19:42 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iniwrndp/public_html/android/data.php on line 9
+[31-Dec-2018 10:23:01 America/New_York] PHP Notice:  Undefined variable: mydb in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:23:01 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:23:01 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iniwrndp/public_html/android/data.php on line 9
+[31-Dec-2018 10:25:47 America/New_York] PHP Notice:  Undefined variable: mydb in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:25:47 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:25:47 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iniwrndp/public_html/android/data.php on line 9
+[31-Dec-2018 10:29:49 America/New_York] PHP Notice:  Undefined variable: mydb in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:29:49 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:29:49 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iniwrndp/public_html/android/data.php on line 9
+[31-Dec-2018 10:30:58 America/New_York] PHP Notice:  Undefined variable: mydb in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:30:58 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:30:58 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iniwrndp/public_html/android/data.php on line 9
+[31-Dec-2018 10:31:24 America/New_York] PHP Notice:  Undefined variable: servername in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:31:24 America/New_York] PHP Notice:  Undefined variable: username in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:31:24 America/New_York] PHP Notice:  Undefined variable: password in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:31:24 America/New_York] PHP Notice:  Undefined variable: dbname in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:31:24 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:31:24 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/iniwrndp/public_html/android/tambahdata2.php on line 25
+[31-Dec-2018 10:31:24 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/iniwrndp/public_html/android/tambahdata2.php on line 31
+[31-Dec-2018 10:31:36 America/New_York] PHP Notice:  Undefined variable: mydb in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:31:36 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:31:36 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iniwrndp/public_html/android/data.php on line 9
+[31-Dec-2018 10:31:56 America/New_York] PHP Notice:  Undefined variable: servername in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:31:56 America/New_York] PHP Notice:  Undefined variable: username in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:31:56 America/New_York] PHP Notice:  Undefined variable: password in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:31:56 America/New_York] PHP Notice:  Undefined variable: dbname in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:31:56 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:31:56 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/iniwrndp/public_html/android/tambahdata2.php on line 25
+[31-Dec-2018 10:31:56 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/iniwrndp/public_html/android/tambahdata2.php on line 31
+[31-Dec-2018 10:32:56 America/New_York] PHP Notice:  Undefined variable: mydb in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:32:56 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:32:56 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iniwrndp/public_html/android/data.php on line 9
+[31-Dec-2018 10:33:23 America/New_York] PHP Notice:  Undefined variable: servername in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:33:23 America/New_York] PHP Notice:  Undefined variable: username in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:33:23 America/New_York] PHP Notice:  Undefined variable: password in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:33:23 America/New_York] PHP Notice:  Undefined variable: dbname in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:33:23 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:33:23 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/iniwrndp/public_html/android/tambahdata2.php on line 24
+[31-Dec-2018 10:33:23 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/iniwrndp/public_html/android/tambahdata2.php on line 30
+[31-Dec-2018 10:33:27 America/New_York] PHP Notice:  Undefined variable: servername in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:33:27 America/New_York] PHP Notice:  Undefined variable: username in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:33:27 America/New_York] PHP Notice:  Undefined variable: password in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:33:27 America/New_York] PHP Notice:  Undefined variable: dbname in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:33:27 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:33:27 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/iniwrndp/public_html/android/tambahdata2.php on line 24
+[31-Dec-2018 10:33:27 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/iniwrndp/public_html/android/tambahdata2.php on line 30
+[31-Dec-2018 10:33:31 America/New_York] PHP Notice:  Undefined variable: mydb in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:33:31 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:33:31 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iniwrndp/public_html/android/data.php on line 9
+[31-Dec-2018 10:33:33 America/New_York] PHP Notice:  Undefined variable: mydb in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:33:33 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:33:33 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iniwrndp/public_html/android/data.php on line 9
+[31-Dec-2018 10:33:33 America/New_York] PHP Notice:  Undefined variable: mydb in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:33:33 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:33:33 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iniwrndp/public_html/android/data.php on line 9
+[31-Dec-2018 10:33:44 America/New_York] PHP Notice:  Undefined variable: servername in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:33:44 America/New_York] PHP Notice:  Undefined variable: username in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:33:44 America/New_York] PHP Notice:  Undefined variable: password in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:33:44 America/New_York] PHP Notice:  Undefined variable: dbname in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:33:44 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:33:44 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/iniwrndp/public_html/android/tambahdata2.php on line 24
+[31-Dec-2018 10:33:44 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/iniwrndp/public_html/android/tambahdata2.php on line 30
+[31-Dec-2018 10:38:03 America/New_York] PHP Notice:  Undefined variable: mydb in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:38:03 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:38:03 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iniwrndp/public_html/android/data.php on line 9
+[31-Dec-2018 10:38:19 America/New_York] PHP Notice:  Undefined variable: servername in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:38:19 America/New_York] PHP Notice:  Undefined variable: username in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:38:19 America/New_York] PHP Notice:  Undefined variable: password in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:38:19 America/New_York] PHP Notice:  Undefined variable: dbname in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:38:19 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:38:42 America/New_York] PHP Notice:  Undefined variable: servername in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:38:42 America/New_York] PHP Notice:  Undefined variable: username in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:38:42 America/New_York] PHP Notice:  Undefined variable: password in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:38:42 America/New_York] PHP Notice:  Undefined variable: dbname in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:38:42 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:38:42 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/iniwrndp/public_html/android/tambahdata2.php on line 24
+[31-Dec-2018 10:38:42 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/iniwrndp/public_html/android/tambahdata2.php on line 30
+[31-Dec-2018 10:38:44 America/New_York] PHP Notice:  Undefined variable: servername in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:38:44 America/New_York] PHP Notice:  Undefined variable: username in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:38:44 America/New_York] PHP Notice:  Undefined variable: password in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:38:44 America/New_York] PHP Notice:  Undefined variable: dbname in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:38:44 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/iniwrndp/public_html/android/tambahdata2.php on line 6
+[31-Dec-2018 10:38:44 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/iniwrndp/public_html/android/tambahdata2.php on line 24
+[31-Dec-2018 10:38:44 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/iniwrndp/public_html/android/tambahdata2.php on line 30
+[31-Dec-2018 10:42:24 America/New_York] PHP Warning:  Use of undefined constant HOST - assumed 'HOST' (this will throw an Error in a future version of PHP) in /home/iniwrndp/public_html/android/koneksi.php on line 16
+[31-Dec-2018 10:42:24 America/New_York] PHP Warning:  Use of undefined constant USER - assumed 'USER' (this will throw an Error in a future version of PHP) in /home/iniwrndp/public_html/android/koneksi.php on line 16
+[31-Dec-2018 10:42:24 America/New_York] PHP Warning:  Use of undefined constant PASS - assumed 'PASS' (this will throw an Error in a future version of PHP) in /home/iniwrndp/public_html/android/koneksi.php on line 16
+[31-Dec-2018 10:42:24 America/New_York] PHP Warning:  Use of undefined constant DB - assumed 'DB' (this will throw an Error in a future version of PHP) in /home/iniwrndp/public_html/android/koneksi.php on line 16
+[31-Dec-2018 10:42:24 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'HOST' (-2) in /home/iniwrndp/public_html/android/koneksi.php on line 16
+[31-Dec-2018 10:42:49 America/New_York] PHP Warning:  Use of undefined constant HOST - assumed 'HOST' (this will throw an Error in a future version of PHP) in /home/iniwrndp/public_html/android/koneksi.php on line 16
+[31-Dec-2018 10:42:49 America/New_York] PHP Warning:  Use of undefined constant USER - assumed 'USER' (this will throw an Error in a future version of PHP) in /home/iniwrndp/public_html/android/koneksi.php on line 16
+[31-Dec-2018 10:42:49 America/New_York] PHP Warning:  Use of undefined constant PASS - assumed 'PASS' (this will throw an Error in a future version of PHP) in /home/iniwrndp/public_html/android/koneksi.php on line 16
+[31-Dec-2018 10:42:49 America/New_York] PHP Warning:  Use of undefined constant DB - assumed 'DB' (this will throw an Error in a future version of PHP) in /home/iniwrndp/public_html/android/koneksi.php on line 16
+[31-Dec-2018 10:42:49 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'HOST' (-2) in /home/iniwrndp/public_html/android/koneksi.php on line 16
+[31-Dec-2018 10:42:51 America/New_York] PHP Warning:  Use of undefined constant HOST - assumed 'HOST' (this will throw an Error in a future version of PHP) in /home/iniwrndp/public_html/android/koneksi.php on line 16
+[31-Dec-2018 10:42:51 America/New_York] PHP Warning:  Use of undefined constant USER - assumed 'USER' (this will throw an Error in a future version of PHP) in /home/iniwrndp/public_html/android/koneksi.php on line 16
+[31-Dec-2018 10:42:51 America/New_York] PHP Warning:  Use of undefined constant PASS - assumed 'PASS' (this will throw an Error in a future version of PHP) in /home/iniwrndp/public_html/android/koneksi.php on line 16
+[31-Dec-2018 10:42:51 America/New_York] PHP Warning:  Use of undefined constant DB - assumed 'DB' (this will throw an Error in a future version of PHP) in /home/iniwrndp/public_html/android/koneksi.php on line 16
+[31-Dec-2018 10:42:51 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'HOST' (-2) in /home/iniwrndp/public_html/android/koneksi.php on line 16
+[31-Dec-2018 10:43:03 America/New_York] PHP Warning:  Use of undefined constant HOST - assumed 'HOST' (this will throw an Error in a future version of PHP) in /home/iniwrndp/public_html/android/koneksi.php on line 16
+[31-Dec-2018 10:43:03 America/New_York] PHP Warning:  Use of undefined constant USER - assumed 'USER' (this will throw an Error in a future version of PHP) in /home/iniwrndp/public_html/android/koneksi.php on line 16
+[31-Dec-2018 10:43:03 America/New_York] PHP Warning:  Use of undefined constant PASS - assumed 'PASS' (this will throw an Error in a future version of PHP) in /home/iniwrndp/public_html/android/koneksi.php on line 16
+[31-Dec-2018 10:43:03 America/New_York] PHP Warning:  Use of undefined constant DB - assumed 'DB' (this will throw an Error in a future version of PHP) in /home/iniwrndp/public_html/android/koneksi.php on line 16
+[31-Dec-2018 10:43:03 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'HOST' (-2) in /home/iniwrndp/public_html/android/koneksi.php on line 16
+[31-Dec-2018 10:43:42 America/New_York] PHP Notice:  Undefined variable: mydb in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:43:42 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:43:42 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iniwrndp/public_html/android/data.php on line 9
+[31-Dec-2018 10:44:27 America/New_York] PHP Notice:  Undefined variable: mydb in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:44:27 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:44:27 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iniwrndp/public_html/android/data.php on line 9
+[31-Dec-2018 10:44:29 America/New_York] PHP Notice:  Undefined variable: mydb in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:44:29 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:44:29 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iniwrndp/public_html/android/data.php on line 9
+[31-Dec-2018 10:44:30 America/New_York] PHP Notice:  Undefined variable: mydb in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:44:30 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/data.php on line 5
+[31-Dec-2018 10:44:30 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iniwrndp/public_html/android/data.php on line 9
+[31-Dec-2018 10:46:05 America/New_York] PHP Notice:  Undefined variable: mydb in /home/iniwrndp/public_html/android/data.php on line 7
+[31-Dec-2018 10:46:05 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/data.php on line 7
+[31-Dec-2018 10:46:05 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iniwrndp/public_html/android/data.php on line 11
+[31-Dec-2018 10:46:37 America/New_York] PHP Notice:  Undefined variable: mydb in /home/iniwrndp/public_html/android/data.php on line 7
+[31-Dec-2018 10:46:37 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/data.php on line 7
+[31-Dec-2018 10:46:37 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iniwrndp/public_html/android/data.php on line 11
+[01-Jan-2019 10:49:35 America/New_York] PHP Notice:  Undefined index: id in /home/iniwrndp/public_html/android/detaildata.php on line 3
+[01-Jan-2019 10:49:35 America/New_York] PHP Notice:  Undefined variable: mydb in /home/iniwrndp/public_html/android/detaildata.php on line 6
+[01-Jan-2019 10:49:35 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/detaildata.php on line 6
+[01-Jan-2019 10:49:35 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/iniwrndp/public_html/android/detaildata.php on line 9
+[01-Jan-2019 10:49:35 America/New_York] PHP Notice:  Undefined variable: mydb in /home/iniwrndp/public_html/android/detaildata.php on line 18
+[01-Jan-2019 10:49:35 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/detaildata.php on line 18
+[01-Jan-2019 10:49:38 America/New_York] PHP Notice:  Undefined index: id in /home/iniwrndp/public_html/android/detaildata.php on line 3
+[01-Jan-2019 10:49:38 America/New_York] PHP Notice:  Undefined variable: mydb in /home/iniwrndp/public_html/android/detaildata.php on line 6
+[01-Jan-2019 10:49:38 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/detaildata.php on line 6
+[01-Jan-2019 10:49:38 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/iniwrndp/public_html/android/detaildata.php on line 9
+[01-Jan-2019 10:49:38 America/New_York] PHP Notice:  Undefined variable: mydb in /home/iniwrndp/public_html/android/detaildata.php on line 18
+[01-Jan-2019 10:49:38 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/detaildata.php on line 18
+[03-Jan-2019 05:37:25 America/New_York] PHP Notice:  Undefined variable: con in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 05:37:25 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 05:38:03 America/New_York] PHP Notice:  Undefined variable: con in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 05:38:03 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 05:38:55 America/New_York] PHP Notice:  Undefined variable: con in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 05:38:55 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 05:41:39 America/New_York] PHP Notice:  Undefined variable: con in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 05:41:39 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 05:42:12 America/New_York] PHP Notice:  Undefined variable: con in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 05:42:12 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 10:04:27 America/New_York] PHP Notice:  Undefined variable: con in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 10:04:27 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 10:09:18 America/New_York] PHP Notice:  Undefined variable: con in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 10:09:18 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 10:15:45 America/New_York] PHP Notice:  Undefined variable: con in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 10:15:45 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 10:17:00 America/New_York] PHP Notice:  Undefined variable: con in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 10:17:00 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 10:18:19 America/New_York] PHP Notice:  Undefined variable: con in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 10:18:19 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 10:19:21 America/New_York] PHP Notice:  Undefined variable: con in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 10:19:21 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 10:30:52 America/New_York] PHP Notice:  Undefined variable: con in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 10:30:52 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 10:38:20 America/New_York] PHP Notice:  Undefined variable: con in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 10:38:20 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 10:47:56 America/New_York] PHP Notice:  Undefined variable: con in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 10:47:56 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 11:13:50 America/New_York] PHP Notice:  Undefined variable: con in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 11:13:50 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 11:13:56 America/New_York] PHP Notice:  Undefined variable: con in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 11:13:56 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 11:24:42 America/New_York] PHP Notice:  Undefined variable: con in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 11:24:42 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 11:24:48 America/New_York] PHP Notice:  Undefined variable: con in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 11:24:48 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 11:29:56 America/New_York] PHP Notice:  Undefined variable: con in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 11:29:56 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 11:30:01 America/New_York] PHP Notice:  Undefined variable: con in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 11:30:01 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 11:33:32 America/New_York] PHP Notice:  Undefined variable: con in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 11:33:32 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 11:35:52 America/New_York] PHP Notice:  Undefined variable: con in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 11:35:52 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 11:36:45 America/New_York] PHP Notice:  Undefined variable: con in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 11:36:45 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 11:36:50 America/New_York] PHP Notice:  Undefined variable: con in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 11:36:50 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 11:36:56 America/New_York] PHP Notice:  Undefined variable: con in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 11:36:56 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 11:37:34 America/New_York] PHP Notice:  Undefined variable: con in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 11:37:34 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 11:38:25 America/New_York] PHP Notice:  Undefined variable: con in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 11:38:25 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 11:38:29 America/New_York] PHP Notice:  Undefined variable: con in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 11:38:29 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 11:38:53 America/New_York] PHP Notice:  Undefined variable: con in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 11:38:53 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 11:38:59 America/New_York] PHP Notice:  Undefined variable: con in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 11:38:59 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/iniwrndp/public_html/android/update.php on line 25
+[03-Jan-2019 11:52:33 America/New_York] PHP Notice:  Undefined index: kode_barang in /home/iniwrndp/public_html/android/delete.php on line 8
+[03-Jan-2019 11:52:35 America/New_York] PHP Notice:  Undefined index: kode_barang in /home/iniwrndp/public_html/android/delete.php on line 8
+[03-Jan-2019 11:52:43 America/New_York] PHP Notice:  Undefined index: kode_barang in /home/iniwrndp/public_html/android/delete.php on line 8
+[03-Jan-2019 11:54:00 America/New_York] PHP Notice:  Undefined index: kode_barang in /home/iniwrndp/public_html/android/tambahdata2.php on line 11
+[03-Jan-2019 11:54:00 America/New_York] PHP Notice:  Undefined index: nama_barang in /home/iniwrndp/public_html/android/tambahdata2.php on line 12
+[03-Jan-2019 11:54:00 America/New_York] PHP Notice:  Undefined index: jumlah_barang in /home/iniwrndp/public_html/android/tambahdata2.php on line 13
+[03-Jan-2019 11:54:00 America/New_York] PHP Notice:  Undefined index: harga_barang in /home/iniwrndp/public_html/android/tambahdata2.php on line 14
+[03-Jan-2019 11:54:09 America/New_York] PHP Notice:  Undefined index: kode_barang in /home/iniwrndp/public_html/android/tambahdata2.php on line 11
+[03-Jan-2019 11:54:09 America/New_York] PHP Notice:  Undefined index: nama_barang in /home/iniwrndp/public_html/android/tambahdata2.php on line 12
+[03-Jan-2019 11:54:09 America/New_York] PHP Notice:  Undefined index: jumlah_barang in /home/iniwrndp/public_html/android/tambahdata2.php on line 13
+[03-Jan-2019 11:54:09 America/New_York] PHP Notice:  Undefined index: harga_barang in /home/iniwrndp/public_html/android/tambahdata2.php on line 14
+[03-Jan-2019 11:54:18 America/New_York] PHP Notice:  Undefined index: kode_barang in /home/iniwrndp/public_html/android/tambahdata2.php on line 11
+[03-Jan-2019 11:54:18 America/New_York] PHP Notice:  Undefined index: nama_barang in /home/iniwrndp/public_html/android/tambahdata2.php on line 12
+[03-Jan-2019 11:54:18 America/New_York] PHP Notice:  Undefined index: jumlah_barang in /home/iniwrndp/public_html/android/tambahdata2.php on line 13
+[03-Jan-2019 11:54:18 America/New_York] PHP Notice:  Undefined index: harga_barang in /home/iniwrndp/public_html/android/tambahdata2.php on line 14
+[03-Jan-2019 11:54:25 America/New_York] PHP Notice:  Undefined index: kode_barang in /home/iniwrndp/public_html/android/delete.php on line 8
+[03-Jan-2019 11:54:36 America/New_York] PHP Notice:  Undefined index: kode_barang in /home/iniwrndp/public_html/android/delete.php on line 8
+[03-Jan-2019 11:54:40 America/New_York] PHP Notice:  Undefined index: kode_barang in /home/iniwrndp/public_html/android/delete.php on line 8
+[03-Jan-2019 11:54:46 America/New_York] PHP Notice:  Undefined index: kode_barang in /home/iniwrndp/public_html/android/delete.php on line 8
+[03-Jan-2019 11:55:04 America/New_York] PHP Notice:  Undefined index: kode_barang in /home/iniwrndp/public_html/android/delete.php on line 8
+[03-Jan-2019 11:55:07 America/New_York] PHP Notice:  Undefined index: kode_barang in /home/iniwrndp/public_html/android/delete.php on line 8
+[03-Jan-2019 11:56:51 America/New_York] PHP Notice:  Undefined index: kode_barang in /home/iniwrndp/public_html/android/delete.php on line 8
+[03-Jan-2019 11:57:54 America/New_York] PHP Notice:  Undefined index: kode_barang in /home/iniwrndp/public_html/android/delete.php on line 10
+[03-Jan-2019 11:58:20 America/New_York] PHP Notice:  Undefined index: kode_barang in /home/iniwrndp/public_html/android/delete.php on line 10
+[03-Jan-2019 12:01:28 America/New_York] PHP Notice:  Undefined index: kode_barang in /home/iniwrndp/public_html/android/tambahdata2.php on line 11
+[03-Jan-2019 12:01:28 America/New_York] PHP Notice:  Undefined index: nama_barang in /home/iniwrndp/public_html/android/tambahdata2.php on line 12
+[03-Jan-2019 12:01:28 America/New_York] PHP Notice:  Undefined index: jumlah_barang in /home/iniwrndp/public_html/android/tambahdata2.php on line 13
+[03-Jan-2019 12:01:28 America/New_York] PHP Notice:  Undefined index: harga_barang in /home/iniwrndp/public_html/android/tambahdata2.php on line 14
+[04-Jan-2019 02:35:03 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/iniwrndp/public_html/android/pengurangan2.php on line 8
+[04-Jan-2019 02:35:07 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/iniwrndp/public_html/android/pengurangan2.php on line 8
+[04-Jan-2019 08:53:50 America/New_York] PHP Notice:  Undefined index: jumlah_barang in /home/iniwrndp/public_html/android/keranjang.php on line 11
+[04-Jan-2019 08:54:45 America/New_York] PHP Notice:  Undefined index: jumlah_barang in /home/iniwrndp/public_html/android/keranjang.php on line 11
+[04-Jan-2019 08:59:55 America/New_York] PHP Notice:  Undefined index: jumlah_barang in /home/iniwrndp/public_html/android/keranjang.php on line 11
+[04-Jan-2019 09:01:48 America/New_York] PHP Notice:  Undefined index: jumlah_barang in /home/iniwrndp/public_html/android/keranjang.php on line 11
+[04-Jan-2019 09:14:54 America/New_York] PHP Notice:  Undefined index: jumlah_barang in /home/iniwrndp/public_html/android/keranjang.php on line 11
+[04-Jan-2019 09:17:09 America/New_York] PHP Notice:  Undefined index: jumlah_barang in /home/iniwrndp/public_html/android/keranjang.php on line 11
+[04-Jan-2019 09:17:55 America/New_York] PHP Notice:  Undefined index: jumlah_barang in /home/iniwrndp/public_html/android/keranjang.php on line 11
+[04-Jan-2019 09:18:02 America/New_York] PHP Notice:  Undefined index: jumlah_barang in /home/iniwrndp/public_html/android/keranjang.php on line 11
+[04-Jan-2019 09:18:09 America/New_York] PHP Notice:  Undefined index: jumlah_barang in /home/iniwrndp/public_html/android/keranjang.php on line 11
+[04-Jan-2019 09:19:18 America/New_York] PHP Notice:  Undefined variable: jumlah in /home/iniwrndp/public_html/android/keranjang.php on line 16
+[04-Jan-2019 21:41:24 Asia/Jakarta] PHP Notice:  Undefined index: total_harga in /home/iniwrndp/public_html/android/transaksi.php on line 16

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Laporan">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pemesanan Selesai"
+            android:textAllCaps="true"
+            android:textStyle="bold"
+            android:textSize="24dp"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="50dp"></View>
+
+        <TextView
+            android:id="@+id/namaproduk"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:textSize="18dp"
+            android:textColor="@color/black"
+            android:textAllCaps="true"
+            android:text="Hai Tayooo" />
+        <TextView
+            android:id="@+id/jumlahproduk"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:textSize="18dp"
+            android:textColor="@color/black"
+            android:textAllCaps="true"
+            android:text="Hai Tayooo" />
+        <TextView
+            android:id="@+id/hargaproduk"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:textSize="18dp"
+            android:textColor="@color/black"
+            android:textAllCaps="true"
+            android:text="Hai Tayooo" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="50dp"></View>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Terima Kasih"
+            android:textAllCaps="true"
+            android:textStyle="bold"
+            android:textSize="24dp"
+            android:textAlignment="center"
+            android:textColor="@color/red" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="50dp"></View>
+
+        <Button
+            android:id="@+id/kembali"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/green"
+            android:textColor="@color/white"
+            android:textSize="16dp"
+            android:text="KEMBALI" />
+
+    </LinearLayout>
+
+</LinearLayout>

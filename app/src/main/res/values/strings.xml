@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">PenjualanBarang</string>
+    <string name="detail">Detail Item</string>
+    <string name="tambah">Tambah Data</string>
+    <string name="update">Ubah Hapus</string>
 </resources>

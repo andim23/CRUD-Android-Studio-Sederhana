@@ -1,5 +1,6 @@
 package com.example.wrep.penjualanbarang;
 
+import android.app.Activity;
 import android.app.ProgressDialog;
 import android.content.DialogInterface;
 import android.content.Intent;
@@ -330,20 +331,48 @@ public class TambahData extends AppCompatActivity{
                 finish();
                 return true;
             case R.id.mainadmin:
-                Intent mainadmin = new Intent(getApplicationContext(), AdminMain.class);
-                startActivity(mainadmin);
-                finish();
+                onBackPressed();
                 return true;
             case R.id.tambahBarang:
                 Intent tambah = new Intent(getApplicationContext(), TambahData.class);
                 startActivity(tambah);
-                //finish();
+                finish();
                 return true;
-            case R.id.bantuan:
-                // Exit option clicked.
+            case R.id.telepon:
+                String phone = "+6285712032051";
+                Intent intent = new Intent(Intent.ACTION_DIAL, Uri.fromParts("tel", phone, null));
+                startActivity(intent);
+                return true;
+            case R.id.sms:
+                Uri urisms = Uri.parse("smsto:6285712032051");
+                Intent sms = new Intent(Intent.ACTION_SENDTO, urisms);
+                sms.putExtra("sms_body", "Ini Pesan");
+                startActivity(sms);
+                return true;
+            case R.id.whatsapp:
+                Uri uri = Uri.parse("smsto:" + "6285712032051");
+                Intent sendIntent = new Intent(Intent.ACTION_SENDTO, uri);
+                sendIntent.setPackage("com.whatsapp");
+                startActivity(sendIntent);
+                return true;
+            case R.id.maps:
+                Intent maps = new Intent(android.content.Intent.ACTION_VIEW, Uri.parse("https://www.google.com/maps/dir//WREPSHOP,+Jl.+Bukit+Anyelir+II+No.238,+Sendangmulyo,+Tembalang,+Kota+Semarang,+Jawa+Tengah+50272/@-7.0451889,110.4718997,15z/data=!4m8!4m7!1m0!1m5!1m1!1s0x2e708c2d6c04e4d9:0xe4773594010c89ca!2m2!1d110.4718997!2d-7.0451889"));
+                startActivity(maps);
                 return true;
             default:
                 return super.onOptionsItemSelected(item);
+        }
+    }
+
+    boolean doubleBackToExitPressedOnce = true;
+    @Override
+    public void onBackPressed() {
+        if (doubleBackToExitPressedOnce) {
+            super.onBackPressed();
+            Intent back = new Intent(getApplicationContext(), AdminMain.class);
+            startActivity(back);
+            finish();
+            return;
         }
     }
 }

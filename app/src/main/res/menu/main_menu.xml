@@ -7,6 +7,22 @@
         android:title="Home"
         app:showAsAction="always" />
     <item
+        android:id="@+id/telepon"
+        android:title="Telepon"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/sms"
+        android:title="SMS"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/whatsapp"
+        android:title="WhatsApp"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/maps"
+        android:title="Lokasi"
+        app:showAsAction="never" />
+    <item
         android:id="@+id/admin"
         android:title="Admin"
         app:showAsAction="never" />

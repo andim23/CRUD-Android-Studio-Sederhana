@@ -2,29 +2,32 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.wrep.penjualanbarang"
     android:versionCode="1"
-    android:versionName="1.0" >
+    android:versionName="1.0">
 
     <uses-sdk
         android:minSdkVersion="15"
         android:targetSdkVersion="28" />
 
+    <uses-permission android:name="android.permission.CALL_PHONE" />
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
         android:allowBackup="true"
         android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
         android:configChanges="orientation|screenSize"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/aplikasilauncher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:testOnly="true"
-        android:theme="@style/AppTheme" >
+        android:theme="@style/AppTheme">
         <activity
-            android:name="com.example.wrep.penjualanbarang.SplashScreen"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+            android:name=".SplashScreen"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -32,19 +35,29 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.wrep.penjualanbarang.MainActivity"
+            android:name=".MainActivity"
             android:label="User" />
-        <activity android:name="com.example.wrep.penjualanbarang.TambahData" />
         <activity
-            android:name="com.example.wrep.penjualanbarang.AdminMain"
+            android:name=".TambahData"
+            android:label="@string/tambah" />
+        <activity
+            android:name=".AdminMain"
             android:label="Admin" />
-        <activity android:name="com.example.wrep.penjualanbarang.DetailItem" />
-        <activity android:name="com.example.wrep.penjualanbarang.UpdateData" />
+        <activity
+            android:name=".DetailItem"
+            android:label="@string/detail" />
+        <activity
+            android:name=".UpdateData"
+            android:label="@string/update" />
 
         <provider
             android:name="com.squareup.picasso.PicassoProvider"
             android:authorities="com.example.wrep.penjualanbarang.com.squareup.picasso"
             android:exported="false" />
+
+        <activity android:label="Keranjang" android:name=".Keranjang" />
+        <activity android:label="Transaksi" android:name=".Transaksi" />
+        <activity android:name=".Laporan"></activity>
     </application>
 
 </manifest>

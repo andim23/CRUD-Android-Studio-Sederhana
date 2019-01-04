@@ -42,6 +42,7 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder> {
             @Override
             public void onClick(View v) {
                 Intent pindah = new Intent(context, DetailItem.class);
+                pindah.putExtra("Kode", listItem.getKode());
                 pindah.putExtra("Image", listItem.getGambar());
                 pindah.putExtra("Judul", listItem.getJudul());
                 pindah.putExtra("Jumlah", listItem.getJumlah());

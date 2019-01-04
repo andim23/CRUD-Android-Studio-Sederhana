@@ -29,34 +29,61 @@
             android:padding="10dp">
 
             <TextView
+                android:id="@+id/txtKode"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="10dp"
+                android:text="Kode:"
+                android:textColor="@color/red"
+                android:textSize="20dp" />
+
+            <TextView
                 android:id="@+id/txtJudul"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textSize="36dp"
+                android:paddingBottom="10dp"
+                android:text="Judul"
                 android:textColor="@color/red"
-                android:paddingBottom="20dp"
-                android:text="Judul" />
+                android:textSize="20dp" />
 
             <TextView
                 android:id="@+id/txtJumlah"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textSize="20dp"
-                android:paddingBottom="20dp"
-                android:text="Jumlah" />
+                android:paddingBottom="10dp"
+                android:text="Jumlah"
+                android:textSize="20dp" />
 
             <TextView
                 android:id="@+id/txtHarga"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Harga" />
+                android:text="Harga"
+                android:textSize="20dp" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="10dp"></View>
 
             <Button
                 android:id="@+id/pesan"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_margin="20dp"
+                android:background="#ff4500"
+                android:textColor="@color/white"
                 android:text="PESAN" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="10dp"></View>
+
+            <Button
+                android:id="@+id/pesanWhatsapp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#075e54"
+                android:text="PESAN VIA WHATSAPP"
+                android:textColor="@color/white" />
 
         </LinearLayout>
 

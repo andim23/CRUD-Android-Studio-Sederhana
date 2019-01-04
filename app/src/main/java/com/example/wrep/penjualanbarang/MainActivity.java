@@ -1,9 +1,13 @@
 package com.example.wrep.penjualanbarang;
 
+import android.Manifest;
 import android.app.ProgressDialog;
 import android.content.Intent;
+import android.content.pm.PackageManager;
+import android.net.Uri;
 import android.os.Bundle;
 import android.os.Handler;
+import android.support.v4.app.ActivityCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.RecyclerView;
@@ -39,17 +43,17 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        recyclerView = (RecyclerView)findViewById(R.id.konten);
+        recyclerView = (RecyclerView) findViewById(R.id.konten);
         recyclerView.setHasFixedSize(true);
         recyclerView.setLayoutManager(new GridLayoutManager(this, 2));
-        //recyclerView.setLayoutManager(new LinearLayoutManager(this));
 
         listItems = new ArrayList<>();
 
         loadData();
     }
 
-    private void loadData(){
+    // MENAMPILKAN DATA
+    private void loadData() {
         final ProgressDialog progressDialog = new ProgressDialog(this);
         progressDialog.setMessage("Memuat Data...");
         progressDialog.show();
@@ -62,7 +66,7 @@ public class MainActivity extends AppCompatActivity {
                     JSONObject jsonObject = new JSONObject(response);
                     JSONArray array = jsonObject.getJSONArray("result");
 
-                    for (int i = 0; i<array.length(); i++){
+                    for (int i = 0; i < array.length(); i++) {
                         JSONObject data = array.getJSONObject(i);
                         ListItem item = new ListItem(
                                 data.getString("url_file"),
@@ -70,7 +74,7 @@ public class MainActivity extends AppCompatActivity {
                                 data.getString("harga_barang"),
                                 data.getString("jumlah_barang"),
                                 data.getString("kode_barang")
-                                );
+                        );
                         listItems.add(item);
                     }
                     adapter = new MyAdapter(listItems, getApplicationContext());
@@ -93,7 +97,7 @@ public class MainActivity extends AppCompatActivity {
 
     // MENAMPILKAN MENU DAN ITEM MENU
     @Override
-    public boolean onCreateOptionsMenu(Menu menu){
+    public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.menu.main_menu, menu);
         return true;
     }
@@ -106,6 +110,27 @@ public class MainActivity extends AppCompatActivity {
                 Intent home = new Intent(getApplicationContext(), MainActivity.class);
                 startActivity(home);
                 finish();
+                return true;
+            case R.id.telepon:
+                String phone = "+6285712032051";
+                Intent intent = new Intent(Intent.ACTION_DIAL, Uri.fromParts("tel", phone, null));
+                startActivity(intent);
+                return true;
+            case R.id.sms:
+                Uri urisms = Uri.parse("smsto:6285712032051");
+                Intent sms = new Intent(Intent.ACTION_SENDTO, urisms);
+                sms.putExtra("sms_body", "Ini Pesan");
+                startActivity(sms);
+                return true;
+            case R.id.whatsapp:
+                Uri uri = Uri.parse("smsto:" + "6285712032051");
+                Intent sendIntent = new Intent(Intent.ACTION_SENDTO, uri);
+                sendIntent.setPackage("com.whatsapp");
+                startActivity(sendIntent);
+                return true;
+            case R.id.maps:
+                Intent maps = new Intent(android.content.Intent.ACTION_VIEW, Uri.parse("https://www.google.com/maps/dir//WREPSHOP,+Jl.+Bukit+Anyelir+II+No.238,+Sendangmulyo,+Tembalang,+Kota+Semarang,+Jawa+Tengah+50272/@-7.0451889,110.4718997,15z/data=!4m8!4m7!1m0!1m5!1m1!1s0x2e708c2d6c04e4d9:0xe4773594010c89ca!2m2!1d110.4718997!2d-7.0451889"));
+                startActivity(maps);
                 return true;
             case R.id.admin:
                 Intent admin = new Intent(getApplicationContext(), AdminMain.class);
