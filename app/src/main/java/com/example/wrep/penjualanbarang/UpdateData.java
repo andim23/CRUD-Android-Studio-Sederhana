@@ -180,7 +180,7 @@ public class UpdateData extends AppCompatActivity{
                 super.onPostExecute(string1);
                 progressDialog.dismiss();
                 Toast.makeText(UpdateData.this,string1,Toast.LENGTH_SHORT).show();
-                Intent back = new Intent(getApplicationContext(), MainActivity.class);
+                Intent back = new Intent(getApplicationContext(), AdminMain.class);
                 startActivity(back);
                 finish();
             }
