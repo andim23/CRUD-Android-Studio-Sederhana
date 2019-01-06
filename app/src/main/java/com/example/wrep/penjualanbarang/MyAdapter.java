@@ -1,8 +1,10 @@
 package com.example.wrep.penjualanbarang;
 
+import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
 import android.support.annotation.NonNull;
+import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -41,7 +43,8 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder> {
         holder.barangGambar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent pindah = new Intent(context, DetailItem.class);
+                Intent pindah = new Intent(context.getApplicationContext(), DetailItem.class);
+                pindah.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                 pindah.putExtra("Kode", listItem.getKode());
                 pindah.putExtra("Image", listItem.getGambar());
                 pindah.putExtra("Judul", listItem.getJudul());
@@ -78,8 +81,5 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder> {
         }
     }
 
-    public interface OnItemClickListener {
-        void onItemClick(int pos);
-    }
 }
 

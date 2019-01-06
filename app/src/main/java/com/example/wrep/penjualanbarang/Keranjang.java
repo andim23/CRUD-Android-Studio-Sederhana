@@ -129,9 +129,6 @@ public class Keranjang extends AppCompatActivity {
                 super.onPostExecute(string1);
                 progressDialog.dismiss();
                 Toast.makeText(Keranjang.this,string1,Toast.LENGTH_SHORT).show();
-//                Intent transaksi = new Intent(getApplicationContext(), MainActivity.class);
-//                startActivity(transaksi);
-//                finish();
             }
 
             @Override
