@@ -38,6 +38,7 @@
             android:name=".TambahData"
             android:label="@string/tambah" />
         <activity
+            android:theme="@style/AppTheme2"
             android:name=".AdminMain"
             android:label="Admin" />
         <activity

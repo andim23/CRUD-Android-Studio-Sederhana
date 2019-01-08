@@ -28,13 +28,6 @@ if($_SERVER['REQUEST_METHOD']=='POST'){
         }
     }else{
         echo "Gagal Melakukan Transaksi";
-        try{
-         // Your code
-    } 
-    catch(Throwable $e) {
-        $trace = $e->getTrace();
-        echo $e->getMessage().' in '.$e->getFile().' on line '.$e->getLine().' called from '.$trace[0]['file'].' on line '.$trace[0]['line'];
-    }
     }
 	mysqli_close($conn);
 }else{
